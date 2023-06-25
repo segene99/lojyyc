@@ -18,7 +18,8 @@
   4. 도서 상세페이지 프론트 및 도서대출 백엔드 개발
      ![FireShot Capture 006 - lojyyc library - localhost](https://github.com/segene99/lojyyc/assets/112309011/800738de-0e26-4daf-98fd-e40a920f037e)
   6. 도서테이블 Oracle SQL 테이블 작성 및 관리     
-- 나의 파트 파트별 캡처사진
+
+
 - 발표PPT 파일
 [1차_1조_윤다운, 오현민, 양소연, 이승희, 정성현, 조세진.pptx](https://github.com/segene99/lojyyc/files/11858980/1._1._.pptx)
 
