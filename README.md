@@ -5,9 +5,7 @@
 - 팀원 : 6명
 - 사용 언어 : Java, JS(JQuery), HTML, CSS
 - 사용 프로그램 : Oracle Developer, Eclipse, Apache Tomcat
-- 프로젝트 목표
-    도서관 홈페이지 제작
-    사용자의 편의성을 고려한 웹페이지 구성
+- 프로젝트 목표: 도서관 홈페이지 제작, 사용자의 편의성을 고려한 웹페이지 구성
 - 나의 파트
   1. 메인페이지 프론트 구현
      ![FireShot Capture 001 - LOJYYC LIBRARY - localhost](https://github.com/segene99/lojyyc/assets/112309011/49eb2a73-fca0-49ab-8eb2-07b12b464501)
