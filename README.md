@@ -8,12 +8,13 @@
 - 프로젝트 목표: 도서관 홈페이지 제작, 사용자의 편의성을 고려한 웹페이지 구성
 - 나의 파트
   1. 메인페이지 프론트 구현
+- 유저들이 관심있는 콘텐츠들을 포함하여 메인페이지에서 최대한 모든 콘텐츠들을 바로 액세스 할수있게 구현
      ![FireShot Capture 001 - LOJYYC LIBRARY - localhost](https://github.com/segene99/lojyyc/assets/112309011/49eb2a73-fca0-49ab-8eb2-07b12b464501)
-  2. 로그인창 모달 구현
+  3. 로그인창 모달 구현
      ![FireShot Capture 002 - LOJYYC LIBRARY - localhost](https://github.com/segene99/lojyyc/assets/112309011/0f6b6d71-5822-4e81-ac1e-dc31bbac28dc)
-  3. 검색페이지 및 도서목록 프론트 및 백엔드 개발
+  4. 검색페이지 및 도서목록 프론트 및 백엔드 개발
      ![FireShot Capture 005 - lojyyc library - localhost](https://github.com/segene99/lojyyc/assets/112309011/3ca512e3-3093-4c7e-82bc-7182017417e0)
-  4. 도서 상세페이지 프론트 및 도서대출 백엔드 개발
+  5. 도서 상세페이지 프론트 및 도서대출 백엔드 개발
      ![FireShot Capture 006 - lojyyc library - localhost](https://github.com/segene99/lojyyc/assets/112309011/800738de-0e26-4daf-98fd-e40a920f037e)
   6. 도서테이블 Oracle SQL 테이블 작성 및 관리     
 
